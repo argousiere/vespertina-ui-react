@@ -1,6 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 :root {
   --foreground-rgb: 191, 224, 242;
@@ -12,6 +9,7 @@
   --grid-line-width: 1px;
   --grid-dot-color: #305c59;
   --grid-dot-size: 2px;
+  --grid-dot-offset: 0.5px;
   --grid-size: 48px;
 
   --vignette-shadow-start: rgb(2, 16, 25);
