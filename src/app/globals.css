@@ -1,3 +1,4 @@
+@import '../styles/fonts.css';
 
 :root {
   --foreground-rgb: 191, 224, 242;
@@ -19,6 +20,9 @@
 
   --border-color: rgb(37 87 126);
   --divider-color: #005375;
+
+  --font-primary: 'Nasalization', Helvetica, Arial, sans-serif;
+  --font-secondary: 'Nimbus Sans', Helvetica, Arial, sans-serif;
 }
 
 body {

@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Nasalization';
+    src: url('../../assets/fonts/nasalization-rg.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nimbus Sans';
+    src: url('../../assets/fonts/NimbusSanL-Reg.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Nimbus Sans';
+    src: url('../../assets/fonts/NimbusSanL-RegIta.otf') format('opentype');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Nimbus Sans';
+    src: url('../../assets/fonts/NimbusSanL-Bol.otf') format('opentype');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Nimbus Sans';
+    src: url('../../assets/fonts/NimbusSanL-BolIta.otf') format('opentype');
+    font-weight: 600;
+    font-style: italic;
+}
